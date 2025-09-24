@@ -6,19 +6,20 @@
       {
         "id": "9ba3e0d4f96aca8b",
         "type": "tabs",
+        "dimension": 56.68238993710691,
         "children": [
           {
             "id": "44111423ea06edd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Snowflake SnowPro Core Training/SnowPro Core 4.1 & 4.2 Data Loading.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "SnowPro Core 4.1 & 4.2 Data Loading"
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -26,9 +27,10 @@
       {
         "id": "f1bc2d398d049d4b",
         "type": "tabs",
+        "dimension": 43.31761006289308,
         "children": [
           {
-            "id": "09a34d6bb7fd7da7",
+            "id": "cc04bf8180473b53",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -36,21 +38,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "cc04bf8180473b53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "COF-CO2_SnowProCoreStudyGuide_090922"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14bb85065af88466",
@@ -123,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for COF-CO2_SnowProCoreStudyGuide_090922"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from COF-CO2_SnowProCoreStudyGuide_090922"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of COF-CO2_SnowProCoreStudyGuide_090922"
+              "title": "Outline"
             }
           },
           {
@@ -209,19 +196,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc04bf8180473b53",
+  "active": "44111423ea06edd7",
   "lastOpenFiles": [
-    "Snowflake SnowPro Core Training/SnowPro Core 2.1 Outline Security Principles.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 2.2 & 2.3 Data Governance & Entities & Roles in Snowflake.md",
+    "Snowflake SnowPro Core Training/Role.md",
+    "Pasted image 20250924172952.png",
     "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
+    "Snowflake SnowPro Core Training/SnowPro Core 5.0 Data Transformations.md",
+    "Snowflake SnowPro Core Training/Securable Object.md",
+    "Snowflake SnowPro Core Training/Pasted image 20250924164716.png",
+    "[Process.md",
+    "Snowflake SnowPro Core Training/Pasted image 20250924164618.png",
+    "Snowflake SnowPro Core Training/SnowPro Core 2.3 Data Governance Capabilities.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 2.1 Outline Security Principles.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 4.1 & 4.2 Data Loading.md",
     "Snowflake SnowPro Core Training/SnowPro Core 1.1 Features of Snowflake Cloud Data Platform.md",
     "Snowflake SnowPro Core Training/SnowPro Core 6.2 Data Sharing.md",
     "Snowflake SnowPro Core Training/SnowPro Core 6.1 Data Protection.md",
-    "Snowflake SnowPro Core Training/SnowPro Core 5.0 Data Transformations.md",
-    "Snowflake SnowPro Core Training/SnowPro Core 2.2 Entities and Roles in Snowflake.md",
-    "Snowflake SnowPro Core Training/SnowPro Core 2.3 Data Governance Capabilities.md",
     "Snowflake SnowPro Core Training/SnowPro Core 3.0 Performance & Cost Optimisation Concepts.md",
     "Snowflake SnowPro Core Training/SnowPro Core 4.3 & 4.4 Data Unloading.md",
-    "Snowflake SnowPro Core Training/SnowPro Core 4.1 & 4.2 Data Loading.md",
     "Welcome.md",
     "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf.crdownload",
     "Snowflake SnowPro Core Training"
