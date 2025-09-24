@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ba3e0d4f96aca8b",
+        "id": "c350f38f77027feb",
         "type": "tabs",
-        "dimension": 56.68238993710691,
         "children": [
           {
-            "id": "44111423ea06edd7",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: graph.json"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f1bc2d398d049d4b",
-        "type": "tabs",
-        "dimension": 43.31761006289308,
-        "children": [
-          {
-            "id": "cc04bf8180473b53",
+            "id": "3cc3c8bafdf30f84",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -196,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44111423ea06edd7",
+  "active": "3cc3c8bafdf30f84",
   "lastOpenFiles": [
     "Snowflake SnowPro Core Training/SnowPro Core 2.2 & 2.3 Data Governance & Entities & Roles in Snowflake.md",
     "Snowflake SnowPro Core Training/Role.md",
