@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Snowflake SnowPro Core Training/SnowPro Core 4.1 & 4.2 Data Loading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "SnowPro Core 4.1 & 4.2 Data Loading"
             }
           }
         ]
@@ -36,8 +36,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "cc04bf8180473b53",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "COF-CO2_SnowProCoreStudyGuide_090922"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for COF-CO2_SnowProCoreStudyGuide_090922"
             }
           },
           {
@@ -129,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from COF-CO2_SnowProCoreStudyGuide_090922"
             }
           },
           {
@@ -158,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of COF-CO2_SnowProCoreStudyGuide_090922"
             }
           },
           {
@@ -182,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +209,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd091e93c98a7eed",
+  "active": "cc04bf8180473b53",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Snowflake SnowPro Core Training/SnowPro Core 2.1 Outline Security Principles.md",
+    "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf",
+    "Snowflake SnowPro Core Training/SnowPro Core 1.1 Features of Snowflake Cloud Data Platform.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 6.2 Data Sharing.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 6.1 Data Protection.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 5.0 Data Transformations.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 2.2 Entities and Roles in Snowflake.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 2.3 Data Governance Capabilities.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 3.0 Performance & Cost Optimisation Concepts.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 4.3 & 4.4 Data Unloading.md",
+    "Snowflake SnowPro Core Training/SnowPro Core 4.1 & 4.2 Data Loading.md",
+    "Welcome.md",
+    "Snowflake SnowPro Core Training/COF-CO2_SnowProCoreStudyGuide_090922.pdf.crdownload",
+    "Snowflake SnowPro Core Training"
   ]
 }
